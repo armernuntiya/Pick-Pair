@@ -1,0 +1,13 @@
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pick&Pair.exe.config
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pick&Pair.exe
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pick&Pair.pdb
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pick&Pair.exe
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pick&Pair.pdb
+C:\Users\Tata\Desktop\Pick&Pair\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
